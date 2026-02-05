@@ -1,4 +1,7 @@
 # Trader Performance vs Market Sentiment
+## 🔗 Live Dashboard
+Interactive Streamlit app:
+https://primetrade-trader-sentiment-analysis.streamlit.app/
 
 This project analyzes how Bitcoin market sentiment (Fear vs Greed)
 influences trader behavior and performance on Hyperliquid.
